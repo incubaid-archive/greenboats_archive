@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/info/inside/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/info/outside/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/home/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/info/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/play/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/relax/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/sail/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/home/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/play/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/relax/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ehab-hassan.github.io/greenboats_archive/sail/</loc>
+  </url>
+  
+</urlset>

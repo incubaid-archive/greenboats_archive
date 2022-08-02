@@ -1,11 +1,12 @@
-baseurl = "/"
+baseurl = "https://ehab-hassan.github.io/greenboats_archive/"
 LanguageCode = "en"
 title = "GreenIT"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
-publishdir = "en"
+publishDir = "docs"
 relativeURLs = true
+canonifyURLs = true
 
 [permalinks]
     post = "/:filename"
