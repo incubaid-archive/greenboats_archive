@@ -8,7 +8,7 @@ logo_link = "/"
 ###############################
 
 #Image Slide1
-slide1_image = "/images/3.jpg"
+slide1_image = "/greenboats_archive/images/3.jpg"
 
 slide1_title = "Sail in Ibiza"
 
@@ -17,7 +17,7 @@ slide1_text = "Welcome on board of Green Boat 1 a safe & green catamaran. This i
 ###############################
 
 #Image Slide2
-slide2_image = "/images/1.jpg"
+slide2_image = "/greenboats_archive/images/1.jpg"
 
 slide2_title = "Sail in Elegance"
 
@@ -26,7 +26,7 @@ slide2_text = "Your dream vacation starts in Ibiza. Your private skipper prepare
 ###############################
 
 #Image Slide3
-slide3_image = "/images/4.jpg"
+slide3_image = "/greenboats_archive/images/4.jpg"
 
 slide3_title = "Sail in Style"
 
@@ -39,25 +39,25 @@ gallery_title = "Catamaran Impression"
 gallery_text = "Green Boat 1 is a revolutionary new catamaran and best in all categories: five spacious cabins, luxurious deck, large kitchen and dining area, energy friendly utilities, fast sailing experience, extremely safe, luxurious design and very affordable."
 
 
-gallery_image1 = "images/gallery/01.jpg"
+gallery_image1 = "/greenboats_archiveimages/gallery/01.jpg"
 
 
-gallery_image2 = "images/gallery/02.jpg"
-
-
-
-gallery_image3 = "images/gallery/03.jpg"
+gallery_image2 = "/greenboats_archiveimages/gallery/02.jpg"
 
 
 
-gallery_image4= "images/gallery/04.jpg"
+gallery_image3 = "/greenboats_archiveimages/gallery/03.jpg"
 
 
 
-gallery_image5 = "images/gallery/05.jpg"
+gallery_image4= "/greenboats_archiveimages/gallery/04.jpg"
 
 
-gallery_image6 = "images/gallery/06.jpg"
+
+gallery_image5 = "/greenboats_archiveimages/gallery/05.jpg"
+
+
+gallery_image6 = "/greenboats_archiveimages/gallery/06.jpg"
 
 
 #############################
