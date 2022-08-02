@@ -39,25 +39,25 @@ gallery_title = "Catamaran Impression"
 gallery_text = "Green Boat 1 is a revolutionary new catamaran and best in all categories: five spacious cabins, luxurious deck, large kitchen and dining area, energy friendly utilities, fast sailing experience, extremely safe, luxurious design and very affordable."
 
 
-gallery_image1 = "/greenboats_archiveimages/gallery/01.jpg"
+gallery_image1 = "/greenboats_archive/images/gallery/01.jpg"
 
 
-gallery_image2 = "/greenboats_archiveimages/gallery/02.jpg"
-
-
-
-gallery_image3 = "/greenboats_archiveimages/gallery/03.jpg"
+gallery_image2 = "/greenboats_archive/images/gallery/02.jpg"
 
 
 
-gallery_image4= "/greenboats_archiveimages/gallery/04.jpg"
+gallery_image3 = "/greenboats_archive/images/gallery/03.jpg"
 
 
 
-gallery_image5 = "/greenboats_archiveimages/gallery/05.jpg"
+gallery_image4= "/greenboats_archive/images/gallery/04.jpg"
 
 
-gallery_image6 = "/greenboats_archiveimages/gallery/06.jpg"
+
+gallery_image5 = "/greenboats_archive/images/gallery/05.jpg"
+
+
+gallery_image6 = "/greenboats_archive/images/gallery/06.jpg"
 
 
 #############################
