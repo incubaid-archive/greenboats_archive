@@ -1,4 +1,5 @@
 # new-greenboats website
 
-- staging website on http://greenboats.aydo.com:4529/
+- Github pages https://incubaid-archive.github.io/greenboats_archive/
+- build with Hugo
 
